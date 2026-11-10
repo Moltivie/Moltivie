@@ -13,7 +13,7 @@ uptime_since = 2015-08-28
 items = [
   ["OS", "macOS, Kali Linux, Arch (btw)"],
   ["Uptime", "{uptime}"],
-  ["Host", "Earth (mostly harmless)"],
+  ["Host", "Luxembourg"],
   ["Kernel", "Network & Cybersecurity Engineer"],
   ["IDE", "Neovim, VS Code, Xcode, Ghidra"],
 ]
