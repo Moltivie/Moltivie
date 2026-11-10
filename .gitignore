@@ -1,0 +1,4 @@
+# Per-repository line counts: local cache only, never published.
+cache/loc.json
+__pycache__/
+.DS_Store

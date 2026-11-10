@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1005" height="530" viewBox="0 0 1005 530" role="img" aria-labelledby="t" xml:space="preserve">
+<title id="t">GitHub profile card</title>
+<style>
+text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace; white-space: pre; }
+.info { font-size: 16px; } .art { font-size: 10px; }
+.text { fill: #24292f; }
+.key { fill: #953800; }
+.value { fill: #0a3069; }
+.dim { fill: #8c959f; }
+.add { fill: #1a7f37; }
+.del { fill: #cf222e; }
+.rule { stroke: #24292f; stroke-width: 1.5; }
+</style>
+<rect width="1005" height="530" rx="15" fill="#f6f8fa"/>
+<g class="art" aria-hidden="true">
+<text y="37.5"><tspan x="177.0" textLength="72.0" class="text">;;!!|!;||;::</tspan></text>
+<text y="50.0"><tspan x="153.0" textLength="114.0" class="text">:|jtictjl!!!!!;;;;;</tspan></text>
+<text y="62.5"><tspan x="141.0" textLength="138.0" class="text">;tt|!;;;!;;;!!!:;;;;;:,</tspan></text>
+<text y="75.0"><tspan x="135.0" textLength="156.0" class="text">:ll!!|!!!!!!!;!;::;;:;;:..</tspan></text>
+<text y="87.5"><tspan x="123.0" textLength="174.0" class="text">jcjl!|||||!!!!!!!!!;::,,:,...</tspan></text>
+<text y="100.0"><tspan x="117.0" textLength="186.0" class="text">tc;:;,.....,,::;!!|!;;;;......,</tspan></text>
+<text y="112.5"><tspan x="111.0" textLength="198.0" class="text">;c:......,,.:jcj!,.,,!!:!l......|</tspan></text>
+<text y="125.0"><tspan x="111.0" textLength="204.0" class="text">!..lllim@@@@@MMM@@m|:..,,:.,....:i</tspan></text>
+<text y="137.5"><tspan x="105.0" textLength="216.0" class="text">l|.t@@@@m%mm%tl|;;|tmj!.....,....;ij</tspan></text>
+<text y="150.0"><tspan x="105.0" textLength="216.0" class="text">jt.,...:%Mmml...,....;ll,........;ij</tspan></text>
+<text y="162.5"><tspan x="99.0" textLength="222.0" class="text">i!!::|,...||;,j|!;,:li............;ij</tspan></text>
+<text y="175.0"><tspan x="99.0" textLength="228.0" class="text">|.:ll@m:,!,j;,mM@k:k@@,|jl..;.....citt</tspan></text>
+<text y="187.5"><tspan x="99.0" textLength="228.0" class="text">:,,ci@@@@,%%m;:M@@@@mt,tjl.::.,..!t;;:</tspan></text>
+<text y="200.0"><tspan x="99.0" textLength="228.0" class="text">!i!;:!!!,iMkk%t|!;;;!jccl!.:;!,;jt:...</tspan></text>
+<text y="212.5"><tspan x="99.0" textLength="222.0" class="text">t@@m:m@@Mj|!::;%@Mm%%kkt|.....kki:...</tspan></text>
+<text y="225.0"><tspan x="99.0" textLength="222.0" class="text">|@c%;:MMcj!|jl|;::;lkkl|:..:...,,....</tspan></text>
+<text y="237.5"><tspan x="105.0" textLength="216.0" class="text">;|!,,!@lmjl|lljtkm|l;;,..::.........</tspan></text>
+<text y="250.0"><tspan x="105.0" textLength="210.0" class="text">.,,:::,l%@m!;lkkkc:;:...:;;:.....,,</tspan></text>
+<text y="262.5"><tspan x="111.0" textLength="204.0" class="text">.......:tccccitj:....::!|;:..,;|;,</tspan></text>
+<text y="275.0"><tspan x="117.0" textLength="198.0" class="text">......l;...,......,:;|j;,:|tt!,..</tspan></text>
+<text y="287.5"><tspan x="117.0" textLength="210.0" class="text">..,!tikkc|....:,:!ljl;;!tt|:,:::...</tspan></text>
+<text y="300.0"><tspan x="93.0" textLength="246.0" class="text">,,.,tM@mkkl|ti|...!cicj||jtjl;!!:..,:;!;:</tspan></text>
+<text y="312.5"><tspan x="81.0" textLength="270.0" class="text">...,c@Mkitiitt::l!,;cm%!|tj|::,..,;|lll||||l|</tspan></text>
+<text y="325.0"><tspan x="75.0" textLength="282.0" class="text">...l@kiiiiMcjttij;,,|;||:.....:;!ljllllll||l|;!</tspan></text>
+<text y="337.5"><tspan x="69.0" textLength="300.0" class="text">;;.cMcjlci%@mittjji,:!;;;;|,|ljjllllllll|lll!;|||!</tspan></text>
+<text y="350.0"><tspan x="63.0" textLength="312.0" class="text">l||m%itk;tcc@@Mkjjjj,|jjjjj!;jlllllllllll!ll!|l||||!</tspan></text>
+<text y="362.5"><tspan x="51.0" textLength="330.0" class="text">.,,t@iti||,jm%%@@cjjji:ljjjjl;!llllllllllll;|;lll||||!!</tspan></text>
+<text y="375.0"><tspan x="45.0" textLength="342.0" class="text">:.:%miitij,,!Mm@@tjjjj!.jjjjjj,!llllllllll||:,;ll|||||!!:</tspan></text>
+<text y="387.5"><tspan x="39.0" textLength="348.0" class="text">,.jMciijjtj!||m@@Mtlljj|.jjjjli,|llllll||||l;..;|||!||||!:</tspan></text>
+<text y="400.0"><tspan x="33.0" textLength="360.0" class="text">.,kkittti;tkl!;;;;!lk%|l;;jlljjt,|lllll||||||!...||;||||!!:;</tspan></text>
+<text y="412.5"><tspan x="27.0" textLength="366.0" class="text">jt@kitccij,k@@@@@@@@@@Mictjitjlj!,lllllll|l|!!l.,.::!|||!!|!!</tspan></text>
+<text y="425.0"><tspan x="27.0" textLength="372.0" class="text">Mcitj|!,::.k@@j:::;c@%c.:ttllt|jil!jl||||||||!l....:||!!!;,,..</tspan></text>
+<text y="437.5"><tspan x="27.0" textLength="372.0" class="text">k|;;;:,...,c@!:@@@M.imM.,!|!llljjjj:;;!ll|;;!l;,...:!!!!!;;;!;</tspan></text>
+<text y="450.0"><tspan x="27.0" textLength="372.0" class="text">|jtjl|!!,..j@t.t@@|.cMk.;jjtjjllllljl.;:,,|l!:.,,,.......,,,,,</tspan></text>
+<text y="462.5"><tspan x="27.0" textLength="372.0" class="text">jjjllllll;.l@@Mt@@lm@MM!.jjll||llllll,|!!!:||||!!lll;;||;:..,:</tspan></text>
+<text y="475.0"><tspan x="21.0" textLength="378.0" class="text">|lllllllll|::m@@@@@@@@M|...:;||ljllll;.;;!!,;||||;:!!!!;,;;;:..</tspan></text>
+<text y="487.5"><tspan x="21.0" textLength="378.0" class="text">;!||l|||l|!;;..::::::........,,,,,,,,.,:,,..!!!!!!!!!;;;:.,;;:.</tspan></text>
+<text y="500.0"><tspan x="21.0" textLength="378.0" class="text">..,;!!!:.,::,...............................;!!;:,:;;;;;;,..,;,</tspan></text>
+<text y="512.5"><tspan x="21.0" textLength="378.0" class="text">....;:..:;;;::......;;;:,,...,::,.....................,,::.....</tspan></text>
+</g>
+<g class="info">
+<text y="79.4"><tspan x="414.0" textLength="153.6" class="text">moltivie@github </tspan></text>
+<path class="rule" d="M567.6 74.6H959.3M967.0 74.6h4.8M978.5 74.6H990.0"/>
+<text y="99.4"><tspan x="414.0" textLength="19.2" class="dim">. </tspan><tspan x="433.2" textLength="19.2" class="key">OS</tspan><tspan x="452.4" textLength="9.6" class="text">:</tspan><tspan x="462.0" textLength="249.6" class="dim"> ........................ </tspan><tspan x="711.6" textLength="278.4" class="value">macOS, Kali Linux, Arch (btw)</tspan></text>
+<text y="119.4"><tspan x="414.0" textLength="19.2" class="dim">. </tspan><tspan x="433.2" textLength="57.6" class="key">Uptime</tspan><tspan x="490.8" textLength="9.6" class="text">:</tspan><tspan x="500.4" textLength="230.4" class="dim"> ...................... </tspan><tspan x="730.8" textLength="259.2" class="value">11 years, 2 months, 13 days</tspan></text>
+<text y="139.4"><tspan x="414.0" textLength="19.2" class="dim">. </tspan><tspan x="433.2" textLength="38.4" class="key">Host</tspan><tspan x="471.6" textLength="9.6" class="text">:</tspan><tspan x="481.2" textLength="288.0" class="dim"> ............................ </tspan><tspan x="769.2" textLength="220.8" class="value">Earth (mostly harmless)</tspan></text>
+<text y="159.4"><tspan x="414.0" textLength="19.2" class="dim">. </tspan><tspan x="433.2" textLength="57.6" class="key">Kernel</tspan><tspan x="490.8" textLength="9.6" class="text">:</tspan><tspan x="500.4" textLength="182.4" class="dim"> ................. </tspan><tspan x="682.8" textLength="307.2" class="value">Network &amp; Cybersecurity Engineer</tspan></text>
+<text y="179.4"><tspan x="414.0" textLength="19.2" class="dim">. </tspan><tspan x="433.2" textLength="28.8" class="key">IDE</tspan><tspan x="462.0" textLength="9.6" class="text">:</tspan><tspan x="471.6" textLength="230.4" class="dim"> ...................... </tspan><tspan x="702.0" textLength="288.0" class="value">Neovim, VS Code, Xcode, Ghidra</tspan></text>
+<text y="199.4"><tspan x="414.0" textLength="9.6" class="dim">.</tspan></text>
+<text y="219.4"><tspan x="414.0" textLength="19.2" class="dim">. </tspan><tspan x="433.2" textLength="201.6" class="key">Languages.Programming</tspan><tspan x="634.8" textLength="9.6" class="text">:</tspan><tspan x="644.4" textLength="28.8" class="dim"> . </tspan><tspan x="673.2" textLength="316.8" class="value">TypeScript, Python, Rust, Go, C++</tspan></text>
+<text y="239.4"><tspan x="414.0" textLength="19.2" class="dim">. </tspan><tspan x="433.2" textLength="172.8" class="key">Languages.Computer</tspan><tspan x="606.0" textLength="9.6" class="text">:</tspan><tspan x="615.6" textLength="38.4" class="dim"> .. </tspan><tspan x="654.0" textLength="336.0" class="value">Tailwind, Prisma, Docker, SQL, YAML</tspan></text>
+<text y="259.4"><tspan x="414.0" textLength="19.2" class="dim">. </tspan><tspan x="433.2" textLength="134.4" class="key">Languages.Real</tspan><tspan x="567.6" textLength="9.6" class="text">:</tspan><tspan x="577.2" textLength="182.4" class="dim"> ................. </tspan><tspan x="759.6" textLength="230.4" class="value">Italian, French, English</tspan></text>
+<text y="279.4"><tspan x="414.0" textLength="9.6" class="dim">.</tspan></text>
+<text y="299.4"><tspan x="414.0" textLength="19.2" class="dim">. </tspan><tspan x="433.2" textLength="67.2" class="key">Hobbies</tspan><tspan x="500.4" textLength="9.6" class="text">:</tspan><tspan x="510.0" textLength="432.0" class="dim"> ........................................... </tspan><tspan x="942.0" textLength="48.0" class="value">DJing</tspan></text>
+<text y="319.4"><tspan x="414.0" textLength="9.6" class="dim">.</tspan></text>
+<text y="339.4"><tspan x="414.0" textLength="96.0" class="text">- Contact </tspan></text>
+<path class="rule" d="M510.0 334.6H959.3M967.0 334.6h4.8M978.5 334.6H990.0"/>
+<text y="359.4"><tspan x="414.0" textLength="19.2" class="dim">. </tspan><tspan x="433.2" textLength="9.6" class="key">X</tspan><tspan x="442.8" textLength="9.6" class="text">:</tspan><tspan x="452.4" textLength="432.0" class="dim"> ........................................... </tspan><tspan x="884.4" textLength="105.6" class="value">@Rider_Host</tspan></text>
+<text y="379.4"><tspan x="414.0" textLength="9.6" class="dim">.</tspan></text>
+<text y="399.4"><tspan x="414.0" textLength="144.0" class="text">- GitHub Stats </tspan></text>
+<path class="rule" d="M558.0 394.6H959.3M967.0 394.6h4.8M978.5 394.6H990.0"/>
+<text y="419.4"><tspan x="414.0" textLength="19.2" class="dim">. </tspan><tspan x="433.2" textLength="48.0" class="key">Repos</tspan><tspan x="481.2" textLength="9.6" class="text">:</tspan><tspan x="490.8" textLength="48.0" class="dim"> ... </tspan><tspan x="538.8" textLength="19.2" class="value">86</tspan><tspan x="558.0" textLength="19.2" class="text"> {</tspan><tspan x="577.2" textLength="105.6" class="key">Contributed</tspan><tspan x="682.8" textLength="19.2" class="text">: </tspan><tspan x="702.0" textLength="19.2" class="value">96</tspan><tspan x="721.2" textLength="9.6" class="text">}</tspan><tspan x="730.8" textLength="28.8" class="text"> | </tspan><tspan x="759.6" textLength="48.0" class="key">Stars</tspan><tspan x="807.6" textLength="9.6" class="text">:</tspan><tspan x="817.2" textLength="153.6" class="dim"> .............. </tspan><tspan x="970.8" textLength="19.2" class="value">67</tspan></text>
+<text y="439.4"><tspan x="414.0" textLength="19.2" class="dim">. </tspan><tspan x="433.2" textLength="67.2" class="key">Commits</tspan><tspan x="500.4" textLength="9.6" class="text">:</tspan><tspan x="510.0" textLength="172.8" class="dim"> ................ </tspan><tspan x="682.8" textLength="48.0" class="value">3,682</tspan><tspan x="730.8" textLength="28.8" class="text"> | </tspan><tspan x="759.6" textLength="86.4" class="key">Followers</tspan><tspan x="846.0" textLength="9.6" class="text">:</tspan><tspan x="855.6" textLength="105.6" class="dim"> ......... </tspan><tspan x="961.2" textLength="28.8" class="value">119</tspan></text>
+<text y="459.4"><tspan x="414.0" textLength="19.2" class="dim">. </tspan><tspan x="433.2" textLength="124.8" class="key">Lines of Code</tspan><tspan x="558.0" textLength="9.6" class="text">:</tspan><tspan x="567.6" textLength="76.8" class="dim"> ...... </tspan><tspan x="644.4" textLength="86.4" class="value">1,310,681</tspan><tspan x="730.8" textLength="28.8" class="text"> ( </tspan><tspan x="759.6" textLength="105.6" class="add">1,571,610++</tspan><tspan x="865.2" textLength="19.2" class="text">, </tspan><tspan x="884.4" textLength="86.4" class="del">260,929--</tspan><tspan x="970.8" textLength="19.2" class="text"> )</tspan></text>
+</g>
+</svg>

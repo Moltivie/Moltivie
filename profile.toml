@@ -1,0 +1,42 @@
+# Everything shown on the profile card lives here.
+# Edit, then run:  python3 build.py --no-fetch   (re-render only)
+#            or:   python3 build.py              (refresh GitHub stats too)
+
+username = "Moltivie"
+title = "moltivie@github"
+
+# "{uptime}" below counts from this date. GitHub join date by default;
+# put a birth date here to show age instead.
+uptime_since = 2015-08-28
+
+[[section]]
+items = [
+  ["OS", "macOS, Kali Linux, Arch (btw)"],
+  ["Uptime", "{uptime}"],
+  ["Host", "Earth (mostly harmless)"],
+  ["Kernel", "Network & Cybersecurity Engineer"],
+  ["IDE", "Neovim, VS Code, Xcode, Ghidra"],
+]
+
+[[section]]
+items = [
+  ["Languages.Programming", "TypeScript, Python, Rust, Go, C++"],
+  ["Languages.Computer", "Tailwind, Prisma, Docker, SQL, YAML"],
+  ["Languages.Real", "Italian, French, English"],
+]
+
+[[section]]
+items = [
+  ["Hobbies", "DJing"],
+]
+
+[[section]]
+title = "Contact"
+items = [
+  ["X", "@Rider_Host"],
+  # ["Email", "you@example.com"],
+  # ["LinkedIn", "your-handle"],
+  # ["Discord", "your-handle"],
+]
+
+# The "GitHub Stats" section is appended automatically.
